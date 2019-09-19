@@ -9,5 +9,13 @@ public class FirstDay
        b=10;
        c=a+b;
        System.out.println("SUM: " + c);
+
+
+
+       Student s1= new Student();
+       s1.Studentdata();
+       s1.display();
+
+
     }
 }
